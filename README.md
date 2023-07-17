@@ -5,7 +5,7 @@
 
 ## Intro
 
-We have chosen to collect Finches in this example!
+We have chosen to collect Finches in this lab! Nothing says fun like Relationtional Databases and Ornithology!
 
 
 ## Exercises
