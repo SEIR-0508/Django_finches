@@ -1,7 +1,7 @@
 <!-- {% raw %} -->
 <img src="https://images.unsplash.com/photo-1600981806713-d141a32a4f7b" width="900">
 
-# Finch Collector Lab - Part 1
+# Finch Collector Lab
 
 ## Intro
 
