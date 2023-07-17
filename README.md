@@ -12,10 +12,10 @@ We have chosen to collect Finches in this example!
 
 Following the steps we took in the **Django URLs, Views, and Templates lesson**, complete the following exercises:
 
-1. Create a Finch model with at least three attributes.
+1. Create a Finch model with at least 3 attributes - Name, Scientific Name, Colors - Plus any that you'd like
 2.  Simulate finch data using a list of finch dictionaries in **views.py**.1. 
 3. Implement the following User Stories:
-	- AAU, I want to be able to navigate to separate pages for `About` and `All Finches` using a navbar
+	- AAU, I want to be able to navigate to separate pages for `About` and `All Finches` using a navbar for my Index and Show route
 	
 	- AAU, when I visit the `About` page, I want to view some details about the finchcollector application.
 
